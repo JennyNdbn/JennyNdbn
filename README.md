@@ -1,6 +1,6 @@
 <!--### Hi there, I'm Jenny 👋-->
 <h1 align="center">Hi there, I'm Jenny 👋</h1>
-<h3 align="center">QA Automation Engineer from Siberia 🇷🇺</h3>
+<h3 align="center">QA Automation Engineer from Siberia 🦊</h3>
 
 ### Contacts
 [![Instagram Badge](https://img.shields.io/badge/-@jenny___ndbn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jenny___ndbn/)](https://instagram.com/jenny___ndbn)
@@ -15,6 +15,8 @@
 
 <a href="https://github.com/JennyNdbn/webinar-tests-final-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JennyNdbn&repo=webinar-tests-final-project&theme=dracula" />
+</a> <a href="https://github.com/JennyNdbn/demo-mobile-wikipedia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JennyNdbn&repo=demo-mobile-wikipedia&theme=dracula" />
 </a>
 
 <!--
