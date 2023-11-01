@@ -1,6 +1,6 @@
 <!--### Hi there, I'm Jenny 👋-->
 <h1 align="center">Hi there, I'm Jenny 👋</h1>
-<h3 align="center">QA Automation Engineer from Siberia 🦊</h3>
+<h3 align="center">Middle QA Automation Engineer from Siberia 🦊</h3>
 
 ### Contacts
 [![Instagram Badge](https://img.shields.io/badge/-@jenny___ndbn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jenny___ndbn/)](https://instagram.com/jenny___ndbn)
